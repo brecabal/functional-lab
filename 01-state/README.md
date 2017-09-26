@@ -1,0 +1,1 @@
+# Evitando el estado compartido

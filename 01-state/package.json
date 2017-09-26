@@ -1,0 +1,23 @@
+{
+  "name": "01-state",
+  "version": "0.0.1",
+  "description": "ejercicios de programacion funcional",
+  "main": "lowercaser.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "functional",
+    "funcional",
+    "programming",
+    "program"
+  ],
+  "author": "Belen Recabal",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.1.0"
+  }
+}
