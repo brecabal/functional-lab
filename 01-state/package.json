@@ -15,9 +15,10 @@
     "programming",
     "program"
   ],
-  "author": "Belen Recabal",
+
+  "author": "Belén Recabal",
   "license": "ISC",
   "devDependencies": {
     "jest": "^21.1.0"
   }
-}
+

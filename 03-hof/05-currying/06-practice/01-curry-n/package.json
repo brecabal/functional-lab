@@ -1,0 +1,19 @@
+{
+  "name": "02-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logger.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "jest": "^21.2.1",
+    "sinon": "^4.0.1"
+  }
+}

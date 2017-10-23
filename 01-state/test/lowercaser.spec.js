@@ -1,16 +1,22 @@
-const lowercaser = require('../lowercaser.js')
+const lowercaser = require('../lowercaser')
 
-test('lowercaser debería retornar un string en lowercaser', ()=>{
-	const actual = 'LOREM IPSUM'
-	const expected = 'lorem ipsum'
+test(
+  'lowercaser deberia retornar un string en lowercase',
+  () => {
+    const actual = 'LOREM IPSUM'
+    const expected = 'lorem ipsum'
 
-	expect(lowercaser(actual)).toBe(expected)
-})
+    expect(lowercaser(actual)).toBe(expected)
+  })
 
-test('debería fallar cuando se ingresa un número',() =>{
-	const actual = 1
+test(
+ 'debería fallar cuando se ingresa un numero',
+  () => {
+    const actual = 1
 
-	expect(() => {
-		lowercaser(actual)
-	}).toThrow()
-})
+    expect(() => {
+      lowercaser(actual)
+    }).toThrow()
+  }
+)
+

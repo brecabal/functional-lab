@@ -1,0 +1,17 @@
+{
+  "name": "01-repeat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "repeat.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rodrigo Fuenzalida",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}

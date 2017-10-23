@@ -1,0 +1,17 @@
+{
+  "name": "parse-items",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rodrigo Fuenzalida",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.0"
+  }
+}

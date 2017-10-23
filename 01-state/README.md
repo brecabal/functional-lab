@@ -2,6 +2,7 @@
 
 ¿Qué es una función?
 
+
 Un procedimiento que recibe parametros de entrada y retorna una salida.
 
 ## Funciones puras

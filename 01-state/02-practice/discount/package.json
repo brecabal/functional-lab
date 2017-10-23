@@ -1,0 +1,17 @@
+{
+  "name": "discount",
+  "version": "0.0.1",
+  "description": "Ejercicio 1 unidad funciones puras",
+  "main": "discount.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rodrigo Fuenzalida",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.0"
+  }
+}

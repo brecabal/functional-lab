@@ -1,0 +1,17 @@
+{
+  "name": "serializeuser",
+  "version": "0.0.1",
+  "description": "Segundo ejercicios unidad funciones puras",
+  "main": "serializeUser.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rodrigo Fuenzalida",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.0"
+  }
+}
