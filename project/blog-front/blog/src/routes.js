@@ -54,6 +54,7 @@ class Routes extends Component {
                 <Route exact path="/home" component={App} />
                 <Route path="/about" component={About} />
                 <Route path="/posts/:id" component={Post} />
+                <Route exact path="/" component={App} />
                 <Route component={NotFound} />
               </Switch>
             </div>
